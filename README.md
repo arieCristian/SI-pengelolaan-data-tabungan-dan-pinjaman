@@ -18,4 +18,9 @@ How to Instal this porject
   Run php artisan serve command
   Done
 ```
+
+
+## Login Information
+username : admin
+password : admin
     
